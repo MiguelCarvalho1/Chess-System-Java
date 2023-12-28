@@ -5,7 +5,7 @@ Checklist:
 o NOTE: choose .gitignore type as Java
  Open a terminal in project folder, and perform the following commands:
 git init
-git remote add origin https://github.com/acenelio/chess-system-java.git
+git remote add origin 
 git pull origin master
 git add .
 git commit -m "Project created"
